@@ -1,0 +1,14 @@
+{
+    "name": "52983/sistemaescolarv4",
+    "type": "project",
+    "authors": [
+        {
+            "name": "jonatansedaces",
+            "email": "jonatansx02@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.13",
+        "illuminate/events": "^8.13"
+    }
+}
